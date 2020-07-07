@@ -10,4 +10,4 @@ random
 time
 ```
 
-(Made with ![typings.gg](https://typings.gg/) in mind so it probably works the best with that site)
+(Made with [typings.gg](https://typings.gg/) in mind so it probably works the best with that site)
