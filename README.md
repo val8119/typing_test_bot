@@ -1,2 +1,5 @@
-# typing_test_bot
- Simple typing test bot (made with typings.gg in mind)
+# Typing Test Bot
+
+Paste in your text, type the delay and select the text area with your cursor
+
+(Made with typings.gg in mind so it probably works the best with that site)
