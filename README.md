@@ -2,6 +2,9 @@
 
 Paste in your text, type the delay and select the text area with your cursor
 
+Example:
+![Example gif](example_images/example.gif)
+
 Requirements:
 
 ```
